@@ -16,7 +16,7 @@
         "bluebird": "^3.7.1",
         "canvas": "^2.7.0",
         "jsdom": "^16.5.3",
-        "json2csv": "4.5.1",
+        "json2csv": "4.5.4",
         "ora": "^4.0.2",
         "progress": "^2.0.3",
         "request": "^2.88.0",
