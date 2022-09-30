@@ -17,7 +17,7 @@
         "canvas": "^2.7.0",
         "jsdom": "^16.5.3",
         "json2csv": "4.5.1",
-        "ora": "^4.0.2",
+        "ora": "^4.1.1",
         "progress": "^2.0.3",
         "request": "^2.88.0",
         "request-promise": "^4.2.4",
