@@ -20,7 +20,7 @@
         "ora": "^4.0.2",
         "progress": "^2.0.3",
         "request": "^2.88.0",
-        "request-promise": "^4.2.4",
+        "request-promise": "^4.2.6",
         "socks-proxy-agent": "^5.0.0",
         "yargs": "^14.2.0"
     },
