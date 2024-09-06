@@ -11,18 +11,18 @@
         "build"
     ],
     "dependencies": {
-        "archiver": "^3.1.1",
+        "archiver": "^5.3.1",
         "async": "^3.1.0",
         "bluebird": "^3.7.1",
         "canvas": "^2.7.0",
-        "jsdom": "^16.5.3",
+        "jsdom": "^24.1.1",
         "json2csv": "4.5.1",
-        "ora": "^4.0.2",
+        "ora": "^6.0.1",
         "progress": "^2.0.3",
         "request": "^2.88.0",
         "request-promise": "^4.2.4",
-        "socks-proxy-agent": "^5.0.0",
-        "yargs": "^14.2.0"
+        "socks-proxy-agent": "^8.0.4",
+        "yargs": "^17.6.0"
     },
     "devDependencies": {
         "@types/archiver": "^3.1.0",
